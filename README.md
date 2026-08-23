@@ -1,8 +1,6 @@
 # Option Pricing and Dynamic Hedging
 
-Derivative pricing and hedging models developed as part of undergraduate
-Financial Mathematics coursework at The Ohio State University.
-
+Derivative pricing and hedging models in Excel.
 ## Overview
 
 This project applies mathematical methods for derivative pricing and risk

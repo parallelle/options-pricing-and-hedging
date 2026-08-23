@@ -37,7 +37,7 @@ rebalanced to adjust the hedge.
 The analysis also examined Gamma exposure and the use of additional option
 positions in managing portfolio risk.
 
-![Dynamic hedging](figures/dynamic_hedging.jpg)
+![Dynamic hedging](figures/dynamic-hedging.jpg)
 
 ## Binomial Option Pricing
 
@@ -47,7 +47,7 @@ using risk-neutral valuation.
 For American options, exercise and continuation values were compared throughout
 the tree to account for the possibility of early exercise.
 
-![Binomial option pricing](figures/binomial_pricing.jpg)
+![Binomial option pricing](figures/binomial-pricing.jpg)
 
 ## Tools and Concepts
 

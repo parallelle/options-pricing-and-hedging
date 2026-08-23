@@ -24,7 +24,7 @@ call and put option values using inputs including:
 
 Option sensitivities were evaluated using Delta, Gamma, and Theta.
 
-![Black-Scholes pricing and Greeks](figures/black_scholes_and_greeks.jpg)
+![Black-Scholes pricing and Greeks](figures/black-scholes-and-greeks.jpg)
 
 ## Dynamic Hedging
 
